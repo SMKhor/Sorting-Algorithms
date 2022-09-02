@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-# includes code for Bubble Sort, Insertion Sort, Linear Search, Binary Search
+includes code for Bubble Sort, Insertion Sort, Linear Search, Binary Search
